@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src/one/digitalinnovation/gof",
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
